@@ -1,4 +1,4 @@
-# Wine Tasting Lab v0.1
+# Wine Tasting Lab v0.1 ベータ
 
 個人用のワイン比較・学習ノート。日本語UI、HTML/CSS/Vanilla JavaScript、外部ライブラリ・API・認証・ビルド不要。アプリ本体は **index.html 1ファイル**です。
 
@@ -55,7 +55,9 @@
 
 ## 静的ホスティング
 
-アプリの公開作業はまだ行っていません。公開するのは `index.html` のみで構いません。個人のバックアップJSONを公開フォルダに含めないでください。
+ベータ版URL：https://foifoi2.github.io/wine-tasting-lab/
+
+GitHub Pagesで公開しています。`main` ブランチへのpushで更新されます。別の環境へ公開する場合は `index.html` のみで構いません。個人のバックアップJSONを公開フォルダに含めないでください。
 
 ### GitHub Pages
 
